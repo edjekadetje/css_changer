@@ -96,10 +96,10 @@ function remove_css_scheme(filename) {
 Sample call for testing
 
 <pre>
-< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Dark')">Dark</button>
-< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Blue')">Blue</button>
-< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Yellow')">Yellow</button>
-< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Green')">Green</button>
-< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Purple')">Purple</button>
+< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Dark')">Dark< /button>
+< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Blue')">Blue< /button>
+< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Yellow')">Yellow< /button>
+< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Green')">Green< /button>
+< button class="btn btn-primary waves-effect waves-light btn-xs m-b-5" onclick="javascript:switch_css_scheme('Purple')">Purple< /button>
  ^ remove this space
 </pre>
