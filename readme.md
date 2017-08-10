@@ -1,6 +1,9 @@
 For this i have used the css examples from Minton
 source: https://wrapbootstrap.com/theme/minton-admin-frontend-rtl-php-mvc5-WB0858DB6
 
+The idea and inspiration came from
+https://stackoverflow.com/questions/9979415/dynamically-load-and-unload-stylesheets/21576847#21576847
+
 To dynamically change the CSS files i changed the structure a little bit.
 
 File structure
@@ -50,7 +53,7 @@ css
     
 The javascript functions
     
- <pre>   
+<pre>   
 function switch_css_scheme(whatColor) {
     "use strict";
     var cssNode = {};
