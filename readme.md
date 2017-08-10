@@ -4,10 +4,10 @@ source: https://wrapbootstrap.com/theme/minton-admin-frontend-rtl-php-mvc5-WB085
 To dynamically change the CSS files i changed the structure a little bit.
 
 File structure
-
+<pre>
 css
     assetsBlue
-        bootstrap.min.css
+    bootstrap.min.css
         icons.css
         components.css
         pages.css
@@ -46,7 +46,7 @@ css
         menu.css
         responsive.css
         core.css
-
+</pre>
     
 The javascript functions
     
