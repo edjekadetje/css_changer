@@ -7,7 +7,7 @@ File structure
 <pre>
 css
     assetsBlue
-    bootstrap.min.css
+        bootstrap.min.css
         icons.css
         components.css
         pages.css
